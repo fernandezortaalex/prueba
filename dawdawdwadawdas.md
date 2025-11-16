@@ -1,3 +1,0 @@
-zczcszcsc
-szcszcszczscawdaw
-hola
