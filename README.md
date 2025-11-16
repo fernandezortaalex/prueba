@@ -1,7 +1,2 @@
 # prueba
-
-<<<<<<< HEAD
-sefsefsefsef
-=======
-awwaf
->>>>>>> develop
+holas
