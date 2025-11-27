@@ -4,6 +4,7 @@ awdawdawdawdawdawdwawdwdw
 seguime
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 dvxdvxdv
 ========
 
@@ -18,3 +19,6 @@ asczsc
 >>
 
 esfsefsefs
+=======
+asczscawdawdawd
+>>>>>>> develop
