@@ -5,6 +5,16 @@ seguime
 
 <<<<<<< HEAD
 dvxdvxdv
-=======
+========
+
 asczsc
+
 >>>>>>> develop
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
+
+esfsefsefs
